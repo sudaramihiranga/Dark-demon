@@ -2,7 +2,7 @@
   "name": "Dark-demon",
   "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
   "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "keywords": ["Dark-demon"],
   "success_url": "/",
 
   "env": {
